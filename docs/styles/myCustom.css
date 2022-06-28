@@ -1,0 +1,62 @@
+.six.columns.lightlayer img {
+	width: 100%;
+}
+.section.info h3, .section.info h2 {
+	text-align: center;
+	border-bottom: 1px double #102747;
+}
+.section.info h4 {
+	text-align: center;
+}
+h2 {
+	padding-top: 20px;
+}
+.logo img {
+	height: 50px;
+	margin-top: 5px;
+}
+.header .action > h1, .header .action > h2 {
+	color: white;
+}
+button.button.button-primary {
+	background-color: #102747;
+}
+.section.footer {
+	padding-top: 20px;
+	background-color: #102747;
+	color: #C2C3C3;
+}
+.mainIMG {
+	width: 100%;
+}
+
+@media (max-width: 549px) {
+	.nav {
+		padding-top: 62px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 550px){
+	.logo img{
+		height: auto;
+		width: 100%;
+	}
+	.logo {
+		background-color: transparent;
+	}
+}
